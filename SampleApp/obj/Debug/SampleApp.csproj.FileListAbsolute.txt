@@ -1,0 +1,7 @@
+C:\Code\Asp.Net MVC\SampleApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\Asp.Net MVC\SampleApp\bin\SampleApp.dll
+C:\Code\Asp.Net MVC\SampleApp\bin\SampleApp.pdb
+C:\Code\Asp.Net MVC\SampleApp\bin\EntityFramework.dll
+C:\Code\Asp.Net MVC\SampleApp\bin\EntityFramework.xml
+C:\Code\Asp.Net MVC\SampleApp\obj\Debug\SampleApp.dll
+C:\Code\Asp.Net MVC\SampleApp\obj\Debug\SampleApp.pdb

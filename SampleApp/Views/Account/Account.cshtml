@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Account";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section Scripts {
+    <script type="text/javascript" src="../../Scripts/Account.js"></script>
+}
+
+<div id="search">
+    Search By AccountId <input type="text" data-bind="value:SearchCriteria" />
+  <p>
+        <input type="button" id='btnSearch' title="Search" value="Search" /></p>
+</div>
+
+<div>
+    <p>
+        AccountId:<input type="text" data-bind="value:AccountId" /></p>
+    <p>
+        Account Name<input type="text" data-bind="value:Name" /></p>
+    <p>
+       Balance<input type="text" data-bind="value:Balance" /></p>
+    <p>
+        <input type="button" id='btnSave' title="Save" value="Update" /></p>
+</div>
